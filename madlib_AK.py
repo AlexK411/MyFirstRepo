@@ -1,3 +1,6 @@
+import time
+
+
 ### MAD LIBS ###
 ### Source: https://i.pinimg.com/736x/4f/d2/fd/4fd2fdcd1a24611d0bbd238876096bbe--outer-space-camp-mad-libs-for-adults.jpg ###
 ### Ask Questions Here ###
@@ -52,3 +55,7 @@ print(" Our own planet, which we call" +firstname1 + ".")
 print(" Circles aroundour" + adjective4 + " Sun " + number1 + " times every year.")
 print(" There are eight other planets in out solar system. They are named" + firstname2 + "," + firstname3 + "," + firstname4 + "," + firstname5 + "," + firstname6 + "," + firstname7 + " ,jupiter, and Mars.")
 print(" Scientists who study these planets are called" + pluralnoun3)
+
+
+
+time.sleep(200)
